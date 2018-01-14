@@ -18,13 +18,13 @@ To learn more about troubleshooting options. see ["Troubleshooting GitHub Pages 
 
 Check your *_config.yml* file at line referenced in the build failure email. Ensure that:
 
->- You are using spaces instead of tabs in the file.  
-- You have included a space after the "." for each key/value pair.  
-    >Correct example: <code>timezone: Africa/Nairobi</code>  
+>- You are using spaces instead of tabs in the file.
+>- You have included a space after the "." for each key/value pair.  
+    Correct example: <code>timezone: Africa/Nairobi</code>  
     Build fail example: <code>timezone:Africa/Nairobi</code>  
-- You are only using UTF-8 characters.  
-- You quote any special characters.  
-    >Correct example: <code>title: "my awesome site: an adventure in parse errors"</code>  
+>- You are only using UTF-8 characters.  
+>- You quote any special characters.  
+    Correct example: <code>title: "my awesome site: an adventure in parse errors"</code>  
     Build fail example: <code>title: my awesome site: an adventure in parse errors</code>
 
 ~~이정도 선에서 일단 해결이 되서 여기까지만 작성~~
