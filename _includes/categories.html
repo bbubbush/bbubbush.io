@@ -1,11 +1,7 @@
 <ul>
-    {% for post in site.posts %}
+  {% for post in site.posts %}
     <li>
-        <strong role="post_title">
-            <a href="{{ post.url }}" class="inherit-color">{{ post.title }}</a>
-        </strong>
-        <date class="date">{{ post.date | date_to_string }}</date>
-        {{ post.excerpt | strip_html | truncatewords: 49 }}
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-    {% endfor %}
+  {% endfor %}
 </ul>
