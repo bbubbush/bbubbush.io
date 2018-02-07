@@ -1,1 +1,6 @@
-<h2>categories.html</h2>
+
+<ul class="nav nav-tabs">
+	{% for category in site.categories %}
+		<li role="presentation"><a href="#">{{category}}</a></li>
+	{% endfor %}
+</ul>
