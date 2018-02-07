@@ -1,6 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+title: Home
+layout: default
 ---
+<h1>{{ site.author }}'s Blog</h1>
+
+<section class="posts">
+{% for post in site.posts %}
+  <li><date>{{ post.date | date: "%B %-d, %Y"}}<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}
+{% endfor %}
+</section>
