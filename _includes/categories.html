@@ -1,19 +1,4 @@
-<!-- 
-<ul class="nav nav-tabs">
-	{% for category in site.categories %}
-		<li role="presentation"><a href="#">{{category}}</a></li>
-	{% endfor %}
-</ul> -->
+
 카테카테
-<ul>
-    {% for post in site.posts %}
-    <li>
-        <strong role="post_title">
-            <a href="{{ post.url }}" class="inherit-color">{{ post.title }}</a>
-        </strong>
-        <date class="date">{{ post.date | date_to_string }}</date>
-        {{ post.excerpt | strip_html | truncatewords: 49 }}
-    </li>
-    {% endfor %}
-</ul>
+
 
