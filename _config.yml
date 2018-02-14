@@ -17,7 +17,7 @@ title: "bbubbush의 두번째 블로그"
 email: "bbubbush@naver.com"
 description: "-"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bbubbush.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  "bbubbush"
 
 # Build settings
