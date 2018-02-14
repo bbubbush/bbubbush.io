@@ -24,7 +24,6 @@ github_username:  "bbubbush"
 # add at 2018-01-12
 encoding: utf-8
 highlighter: rouge
-highlighter: pygments
 
 markdown: kramdown
 theme: minima
