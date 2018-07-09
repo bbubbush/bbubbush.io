@@ -1,3 +1,6 @@
+html{
+	width: 1903px;
+}
 #main-img{
 	background-image:url("/assets/img/main_img.jpg");
 	background-repeat: no-repeat;
