@@ -1,5 +1,5 @@
 h1.title{
-	margin-left: 30px;
+	/*margin-left: 30px;*/
 }
 .sub-title{
 	color: blue;
@@ -12,5 +12,5 @@ ul.header li{
 	display:inline;             
     font:bold 12px;
     font-size: 20px;
-    padding: 0px 30px;
+    /*padding: 0px 30px;*/
 }
