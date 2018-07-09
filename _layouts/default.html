@@ -1,14 +1,25 @@
 <!DOCTYPE html>
 <html>
-	{% include head.html %}
-	<title>{{ site.title }}</title>
+	<head>
+	    {% include head.html %}
+	    <title>{{ site.title }}</title>
+	    <link href="{{ site.url }}/assets/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+	    <link href="{{ site.url }}/assets/css/bootstrap-theme.css" rel="stylesheet" type="text/css"/>
+	</head>
 	<body>
-		{% include title.html %}
+		{% include header.html %}
 		{% include categories.html %}
 		<div class="row">
-			<div class="col-md-10 col-md-offset-1">	
+			<div class="col-md-12">	
 				{{ content }}
 			</div>
 		</div>
+		{% include footer.html %}
+
 	</body>
+
+	<script src="{{ site.url }}/assets/js/jquery-3.3.1.js"></script>
+	<script src="{{ site.url }}/assets/js/bootstrap.js"></script>
 </html>
+
+
