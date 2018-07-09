@@ -1,10 +1,11 @@
 ul.header{
-	padding-top:10px
+	padding-top:40px
 }
 ul.header li{
 	display:inline;             
-    border-left:1px solid #999;
     font:bold 12px Dotum;
+    font-size: 20px;
+    padding: 0px 30px;
 }
 ul.header li:first-child{
 	border-left:none;
