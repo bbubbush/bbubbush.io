@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Who is bbubbush?
+description: 왠지 있어야 할 것 같아서 만드는 페이지
 permalink: /about/
 ---
 
