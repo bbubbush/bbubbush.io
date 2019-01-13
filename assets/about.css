@@ -1,0 +1,8 @@
+.about>.about-year {
+    padding: 2%
+}
+.about>.about-year>.title {
+    font-size: 30px;
+    color: gray;
+
+} 
