@@ -2,6 +2,7 @@
 layout: post
 title: Secret Miro Algorism
 category: Algolism
+author: bbubbush
 ---
 
 
