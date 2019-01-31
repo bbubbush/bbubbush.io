@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who is bbubbush?
+title: Posts
 description: 
 permalink: /posts/
 ---
