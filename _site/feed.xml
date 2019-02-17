@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-31T11:28:33+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">No pain, no gain</title><entry><title type="html">평균구하기</title><link href="http://localhost:4000/algolism/2019/01/13/Algorithm.html" rel="alternate" type="text/html" title="평균구하기" /><published>2019-01-13T00:00:00+09:00</published><updated>2019-01-13T00:00:00+09:00</updated><id>http://localhost:4000/algolism/2019/01/13/Algorithm</id><content type="html" xml:base="http://localhost:4000/algolism/2019/01/13/Algorithm.html">&lt;h4 id=&quot;-평균구하기-&quot;&gt;[ 평균구하기 ]&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-18T02:10:15+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">No pain, no gain</title><entry><title type="html">Prologue</title><link href="http://localhost:4000/book_review/2019/02/18/Book_Review.html" rel="alternate" type="text/html" title="&lt;그림으로 공부하는 오라클구조&gt; Prologue" /><published>2019-02-18T00:00:00+09:00</published><updated>2019-02-18T00:00:00+09:00</updated><id>http://localhost:4000/book_review/2019/02/18/Book_Review</id><content type="html" xml:base="http://localhost:4000/book_review/2019/02/18/Book_Review.html">&lt;p&gt;&lt;img src=&quot;/assets/img/book_review/01_oracle_architecture/prologue_01.png&quot; alt=&quot;그림으로 공부하는 오라클구조 표지&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;신년 계획 중 하나인 “개발자가 개발 못하면 쓰나~” 프로젝트의 일환으로 개발서적을 하나 잡고 챕터별로 정리하여 포스팅을 하려고 한다. 처음 작성하는 포스팅이다 보니 다소 엉성하고 주저리주저리 글을 쓸 지라도 이해해주길 여러분이 이해해주길 바란다. 마치 이 글처럼 ㅎㅎ&lt;/p&gt;</content><author><name>bbubbush</name></author><category term="Book_Review" /><summary type="html"></summary></entry><entry><title type="html">평균구하기</title><link href="http://localhost:4000/algolism/2019/01/13/Algorithm.html" rel="alternate" type="text/html" title="평균구하기" /><published>2019-01-13T00:00:00+09:00</published><updated>2019-01-13T00:00:00+09:00</updated><id>http://localhost:4000/algolism/2019/01/13/Algorithm</id><content type="html" xml:base="http://localhost:4000/algolism/2019/01/13/Algorithm.html">&lt;h4 id=&quot;-평균구하기-&quot;&gt;[ 평균구하기 ]&lt;/h4&gt;
 &lt;p&gt;함수를 완성해서 매개변수 array의 평균값을 return하도록 만들어 보세요.
 어떠한 크기의 array가 와도 평균값을 구할 수 있어야 합니다.&lt;/p&gt;
 
@@ -52,6 +54,10 @@ print(“평균값 : {}”.format(average(list)))&lt;/p&gt;</content><author><na
 &lt;!-- &lt;ul&gt;
   
     &lt;li&gt;
+      &lt;a href=&quot;/book_review/2019/02/18/Book_Review.html&quot;&gt;&lt;그림으로 공부하는 오라클구조&gt; Prologue&lt;/a&gt;
+    &lt;/li&gt;
+  
+    &lt;li&gt;
       &lt;a href=&quot;/algolism/2019/01/13/Algorithm.html&quot;&gt;평균구하기&lt;/a&gt;
     &lt;/li&gt;
   
@@ -96,6 +102,10 @@ print(“평균값 : {}”.format(average(list)))&lt;/p&gt;</content><author><na
 &lt;!-- &lt;ul&gt;
   
     &lt;li&gt;
+      &lt;a href=&quot;/book_review/2019/02/18/Book_Review.html&quot;&gt;&lt;그림으로 공부하는 오라클구조&gt; Prologue&lt;/a&gt;
+    &lt;/li&gt;
+  
+    &lt;li&gt;
       &lt;a href=&quot;/algolism/2019/01/13/Algorithm.html&quot;&gt;평균구하기&lt;/a&gt;
     &lt;/li&gt;
   
@@ -125,6 +135,10 @@ print(“평균값 : {}”.format(average(list)))&lt;/p&gt;</content><author><na
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;!-- &lt;ul&gt;
+  
+    &lt;li&gt;
+      &lt;a href=&quot;/book_review/2019/02/18/Book_Review.html&quot;&gt;&lt;그림으로 공부하는 오라클구조&gt; Prologue&lt;/a&gt;
+    &lt;/li&gt;
   
     &lt;li&gt;
       &lt;a href=&quot;/algolism/2019/01/13/Algorithm.html&quot;&gt;평균구하기&lt;/a&gt;
