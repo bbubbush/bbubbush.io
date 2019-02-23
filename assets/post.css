@@ -2,3 +2,9 @@
     display: block;
     margin: auto;
 }
+.img {
+    width: 100%;
+}
+.post-heading {
+    font-size: 30px;   
+}
