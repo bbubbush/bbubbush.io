@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: No pain, no gain
 email: bbubbush@gmail.com
-# description: 
+description: 넓고 얕은 Full-Stack 개발자 입니다 :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
