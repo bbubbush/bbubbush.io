@@ -11,7 +11,7 @@ author: bbubbush
 
 # 디스크는 느리다!
 
-![필기내용](/assets/img/book_review/01_oracle_architecture/2019-02-22_oracle_01.jpg){: .center}
+![필기내용](/assets/img/book_review/01_oracle_architecture/2019-02-22_oracle_01.jpg){: .center .img}
 > 개발자 답게 개발스러운 필기다 : )
 
 흔히 SSD(흔히 스스디라고 표현하는 저장장치)를 한번이라도 사용한 사람은 HDD(a.k.a 하드디스크)를 쓰기 힘들다고 한다. 왜냐하면 느리기 때문이다. 
@@ -21,5 +21,5 @@ author: bbubbush
 그나마 우리는 SSD와 HDD를 비교하지만 데이터베이스는 메모리(물리적으로는 RAM을 말한다.)와 HDD를 비교하기 때문에 더더욱 HDD의 속도에 불만을 갖고 사용하기 싫어한다.  
 
 아래 그림을 보자
-![HDD의 동작원리](/assets/img/book_review/01_oracle_architecture/2019-02-22_oracle_02.jpg){: .center}
+![HDD의 동작원리](/assets/img/book_review/01_oracle_architecture/2019-02-22_oracle_02.png){: .center .img}
 > 개발자 답게 개발스러운 필기다 : )
