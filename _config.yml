@@ -17,7 +17,7 @@ title: No pain, no gain
 email: bbubbush@gmail.com
 description: 넓고 얕은 Full-Stack 개발자 입니다 :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bbubbush.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: bbubbush
 
