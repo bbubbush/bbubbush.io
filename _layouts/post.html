@@ -33,13 +33,15 @@ layout: default
       {{ content }}
 
       <hr>
+
       <div class="comments">
         {% if page.comments %}
           {% include disqus.html %}
         {% endif %}
       </div>
-      <div class="clearfix">
 
+      <hr>
+      <div class="clearfix">
         {% if page.previous.url %}
         <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline"> Post</span></a>
         {% endif %}
