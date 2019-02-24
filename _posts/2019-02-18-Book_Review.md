@@ -3,6 +3,7 @@ layout: post
 title: <그림으로 공부하는 오라클구조> Prologue
 category: Book_Review
 author: bbubbush
+comments: true
 ---
 ![그림으로 공부하는 오라클구조 표지](/assets/img/book_review/01_oracle_architecture/prologue_01.png){: .center}
 
