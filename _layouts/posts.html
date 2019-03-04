@@ -43,7 +43,7 @@ layout: default
         {% endfor %} -->
         <!-- Home Post List -->
 
-        사이트 카테고리 {{ site.categories }}
+        
         {% assign sorted_cats = site.categories | sort %}
         {% for category in sorted_cats %}
           {% capture cat %}{{ category | first }}{% endcapture %}
