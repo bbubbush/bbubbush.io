@@ -46,7 +46,8 @@ layout: default
         사이트 카테고리 {{ site.categories }}
         {% assign sorted_cats = site.categories | sort %}
         {% for category in sorted_cats %}
-        {{ cat | capitalize }}
+          {% capture cat %}{{ category | first }}{% endcapture %}
+           {{ cat | capitalize }}
         {% endfor %}
         
         <!-- {% for post in site.posts %}
