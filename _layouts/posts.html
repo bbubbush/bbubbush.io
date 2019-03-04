@@ -29,8 +29,8 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-md-10 mx-auto">
-      <h1>뭐야</h1>
-        {% assign category = page.category | default: page.title %}
+      <h1>뭐야1</h1>
+        <!-- {% assign category = page.category | default: page.title %}
         {% for post in site.categories[category] %}
           <li>
             <h3>
@@ -40,6 +40,31 @@ layout: default
               <small>{{ post.date | date_to_string }}</small>
             </h3>
           </li>
+        {% endfor %} -->
+        <!-- Home Post List -->
+        {% for post in site.posts limit : 5 %}
+
+          <article class="post-preview">
+            <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+              <h2 class="post-title">{{ post.title }}</h2>
+              {% if post.subtitle %}
+                <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+              {% else %}
+                <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+              {% endif %}
+            </a>
+            <p class="post-meta">Posted by
+              {% if post.author %}
+                {{ post.author }}
+              {% else %}
+                {{ site.author }}
+              {% endif %}
+              on
+              {{ post.date | date: '%B %d, %Y' }}</p>
+          </article>
+
+          <hr>
+
         {% endfor %}
       
     </div>
