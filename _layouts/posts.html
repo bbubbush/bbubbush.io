@@ -34,7 +34,7 @@ layout: default
 
       
       {% assign category = page.category | sort%}
-      {% for post in site.categories[category] %}
+      <!-- {% for post in site.categories[category] %}
         <li>
           <h3>
             <a href="{{ site.baseurl }}{{ post.url }}">
@@ -43,10 +43,10 @@ layout: default
             <small>{{ post.date | date_to_string }}</small>
           </h3>
         </li>
-      {% endfor %}
+      {% endfor %} -->
 
 
-      {% for post in site.posts %}
+      {% for post in site.categories[category] %}
 
       <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
