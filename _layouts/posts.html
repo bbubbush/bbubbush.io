@@ -45,6 +45,8 @@ layout: default
 
 
         {% assign sorted_cats = site.categories | sort %}
+        {% for category in sorted_cats %}
+        {{ cat | capitalize }}
         {{ sorted_cats }}
         {% for post in site.posts %}
 
