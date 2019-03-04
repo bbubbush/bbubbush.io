@@ -29,7 +29,19 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-md-10 mx-auto">
-      {% for post in site.categories[category] | sort %}
+
+        {% assign category = page.category | default: page.title %}
+        {% for post in site.categories[category] %}
+          <li>
+            <h3>
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ post.title }}
+              </a>
+              <small>{{ post.date | date_to_string }}</small>
+            </h3>
+          </li>
+        {% endfor %}
+      <!-- {% for post in site.categories[category] | sort %}
       <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
           <h2 class="post-title">{{ post.title }}</h2>
@@ -51,7 +63,7 @@ layout: default
 
       <hr>
 
-      {% endfor %}
+      {% endfor %} -->
     </div>
   </div>
 </div>
