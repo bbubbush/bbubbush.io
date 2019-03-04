@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 곧 러브콜이 끊이지 않을 개발자, bbubbush에게 닿는 법
+title: 곧 러브콜이 끊이지 않을 개발자에게 미리 러브콜을 보내는 방법
 description: 
 permalink: /contact/
 ---
