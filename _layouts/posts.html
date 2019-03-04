@@ -28,23 +28,8 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col-lg-8 col-md-10 mx-auto">
-      <h1>뭐야4</h1>
-        <!-- {% assign category = page.category | default: page.title %}
-        {% for post in site.categories[category] %}
-          <li>
-            <h3>
-              <a href="{{ site.baseurl }}{{ post.url }}">
-                {{ post.title }}
-              </a>
-              <small>{{ post.date | date_to_string }}</small>
-            </h3>
-          </li>
-        {% endfor %} -->
-        <!-- Home Post List -->
-
-        
-        {% assign sorted_cats = site.categories | sort %}
+    <div class="col-lg-8 col-md-10 mx-auto">       
+      {% assign sorted_cats = site.categories | sort %}
         {% for category in sorted_cats %}
           {% capture cat %}{{ category | first }}{% endcapture %}
             {% for post in site.categories[cat] %}
@@ -69,7 +54,6 @@ layout: default
               <hr>
             {% endfor %}
         {% endfor %}
-      
     </div>
   </div>
 </div>
