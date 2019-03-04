@@ -47,7 +47,7 @@ layout: default
 
 
       {% for post in site.categories[category] | sort %}
-
+      {{ post.categories }}
       <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
           <h2 class="post-title">{{ post.title }}</h2>
