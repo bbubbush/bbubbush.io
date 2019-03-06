@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 자료구조 - Depth First Search(DFS)
-category: Algolism
-categories: [Algolism]
+category: DataStructure
+categories: [DataStructure]
 author: bbubbush
 ---
 
