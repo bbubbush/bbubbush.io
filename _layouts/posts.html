@@ -28,7 +28,9 @@ layout: default
     <div class="col-lg-8 col-md-10 mx-auto">       
       {% assign sorted_cats = site.categories | sort %}
         {% for category in sorted_cats %}
+        <fieldset>
           {% capture cat %}{{ category | first }}{% endcapture %}
+          <legend>{{ cat }}</legend>
             {% for post in site.categories[cat] %}
               <article class="post-preview">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -50,6 +52,7 @@ layout: default
               </article>
               <hr>
             {% endfor %}
+          </fieldset>
         {% endfor %}
     </div>
   </div>
