@@ -311,3 +311,11 @@ footer {
 .btn-lg {
   font-size: 16px;
   padding: 25px 35px; }
+
+
+/* 2019-03-07 posts.html에 적용하기 위해 추가 */
+.fieldset {
+    border:2px solid green;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;}
