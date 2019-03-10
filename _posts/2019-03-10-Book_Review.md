@@ -36,7 +36,7 @@ comments: true
 블록은 다이소에서 파는 정리상자와 비슷하다. 정리상자 안에 연필 한 자루가 있던, 과자로 가득 차있던 차지하는 부피는 동일하다.
 같은 원리로 블록은 데이터의 존재유무와 상관없이 동일한 크기로 관리된다.
 
-크게는 Header 영역와 Free Area + Row Data로 구분하지만 디테일하게는 Table Directory, Row Directory 등이 존재하지만 책에서는 간단하게 구분하므로 저 역시 책을 따라가겠다.
+크게는 Header 영역와 Free Area + Row Data로 구분하지만 디테일하게는 Table Directory, Row Directory 등이 있다. 책에서는 간단하게 구분하므로 저 역시 책을 따라가겠다.
 
 헤더 영역에는 블록에 대한 정보를 담는다. 주소값이라던가 세그먼트 타입 등이 그것이다. Free Area는 블록의 데이터를 담고 남은 공간을 의미한다.
 정리상자에 연필 한자루만 담는다면 안에 남는 여유공간이 Free Area가 되고 연필이 Row Data가 되는 것이다.
