@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4952f736-82cf-4a64-9e04-7902066152e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/study/2019-03-10_Study1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/study/2019-03-10_Study2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/book_review/01_oracle_architecture/2019-03-10_Study1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/book_review/01_oracle_architecture/2019-03-10_Study2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-23-WelcomeToStudy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-23-WelcomeToStudy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-09-Study.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-09-Study.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/etc/2019-02-22_Study1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/study/2019-02-22_Study1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/etc/2019-02-22_Study2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/study/2019-02-22_Study2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/study/2019-03-10_Study1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/study/2019-03-10_Study2.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,19 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-02-23-WelcomeToStudy.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-03-Book_Review.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="225">
+              <caret line="15" column="96" selection-start-line="15" selection-end-line="15" selection-end-column="96" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-09-Study.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -46,12 +45,17 @@
       <list>
         <option value="$PROJECT_DIR$/_posts/2019-02-23-WelcomeToStudy.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-09-Study.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,6 +91,21 @@
               <item name="bbubbush.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="book_review" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bbubbush.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bbubbush.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="book_review" type="462c0819:PsiDirectoryNode" />
+              <item name="01_oracle_architecture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bbubbush.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bbubbush.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -97,12 +116,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552146417106" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552192463298" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/book_review/01_oracle_architecture" />
+      <recent name="$PROJECT_DIR$/assets/img/book_review" />
       <recent name="$PROJECT_DIR$/assets/img/study" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -135,7 +156,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
@@ -166,6 +187,12 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/img/study/2019-03-10_Study1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/study/2019-03-10_Study2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-23-WelcomeToStudy.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -173,16 +200,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/study/2019-03-10_Study1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/study/2019-03-10_Study2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-09-Study.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        <state relative-caret-position="104">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-03-Book_Review.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="96" selection-start-line="15" selection-end-line="15" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-18-Book_Review.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-23-Book_Review.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="66" column="121" lean-forward="true" selection-start-line="66" selection-start-column="121" selection-end-line="66" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/book_review/01_oracle_architecture/2019-02-22_oracle_01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
