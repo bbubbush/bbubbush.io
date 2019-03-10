@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4952f736-82cf-4a64-9e04-7902066152e7" name="Default Changelist" comment="" />
+    <list default="true" id="4952f736-82cf-4a64-9e04-7902066152e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+            <state relative-caret-position="240">
+              <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -109,7 +111,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552193023438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552193264569" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -152,7 +154,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -220,13 +222,13 @@
     <entry file="file://$PROJECT_DIR$/assets/img/book_review/01_oracle_architecture/2019-02-22_oracle_01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/book_review/01_oracle_architecture/2019-03-10_oracle01.png">
+    <entry file="file://$PROJECT_DIR$/assets/img/book_review/01_oracle_architecture/2019-03-10_oracle_01.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        <state relative-caret-position="240">
+          <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
         </state>
       </provider>
     </entry>

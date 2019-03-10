@@ -14,7 +14,7 @@ comments: true
 
 아래는 3장에서 중요하다고 생각된 내용이다. (항상 악필인 것에 대해 미안하게 생각한다)
 
-![필기내용](/assets/img/book_review/01_oracle_architecture/2019-03-10_oracle_01.jpg){: .center .img}
+![필기내용](/assets/img/book_review/01_oracle_architecture/2019-03-10_oracle_01.png){: .center .img}
 
 전체적인 내용 중 꼭 알고 넘어가야하는 부분만 정리했다. 특히 공유메모리부분(SGA, PGA)는 중요한 개념이라 꼭 알고 넘어가길 바라며 빨간별을 넣었다.
 
@@ -28,5 +28,5 @@ comments: true
 캐시는 이러한 도구를 올려놓는 공간이다. 클라이언트가 요청한 SQL에 대한 결과를 캐시에 저장해 놓는다.
 후에 같은 요청이 들어오면 먼저 캐시에 결과값이 있는지 확인하고 존재한다면 HDD를 거치지 않고 결과를 돌려준다.
 
-![캐시에 데이터가 존재하는 경우](/assets/img/book_review/01_oracle_architecture/2019-03-10_oracle_02.jpg){: .center .img}
+![캐시에 데이터가 존재하는 경우](/assets/img/book_review/01_oracle_architecture/2019-03-10_oracle_02.png){: .center .img}
 
