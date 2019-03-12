@@ -3,6 +3,7 @@ layout: page
 title: Who is bbubbush?
 description: 왠지 있어야 할 것 같아서 만드는 페이지
 permalink: /about/
+published : false
 ---
 
 <div class="about">
@@ -22,3 +23,44 @@ permalink: /about/
         </ul>
     </div>
 </div>
+이상훈
+
+E-mail  bbubbush@gmail.com
+git     https://github.com/bbubbush
+
+
+Programming Languege
+- Java
+- JavaScript
+- Python
+Frameworks
+- Spring
+- Spring boot
+- Django
+- BaseCommerce
+- Jwork
+Data Base
+- Oracle
+- MySQL
+- SQLite
+- PostgresQL
+Back End
+- Maven
+- Gradle
+- JPA
+- Mybatis
+- GSON
+- Poi
+Front End
+- HTML5
+- JavaScript - CSS3
+- React
+- AngularJS
+OS
+- MS Windows
+- Linux Ubuntu
+- Mac OS
+
+
+
+
