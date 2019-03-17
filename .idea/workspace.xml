@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4952f736-82cf-4a64-9e04-7902066152e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-15-Diary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-03-17-Study.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-15-Diary.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-17-Study.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="600">
+              <caret line="40" column="109" selection-start-line="40" selection-start-column="109" selection-end-line="40" selection-end-column="109" />
             </state>
           </provider>
         </entry>
@@ -42,14 +41,13 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-11-Book_Review.md" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-15-Diary.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-17-Study.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="-281" />
-    <option name="y" value="-1080" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,6 +58,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,7 +108,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,14 +116,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/2019-03-10_Study1.png" />
       <recent name="$PROJECT_DIR$/assets/img/book_review/01_oracle_architecture" />
       <recent name="$PROJECT_DIR$/assets/img/book_review" />
       <recent name="$PROJECT_DIR$/assets/img/study" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -154,10 +152,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-281" y="-1080" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21565495" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21888413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,6 +255,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-17-Study.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="109" selection-start-line="40" selection-start-column="109" selection-end-line="40" selection-end-column="109" />
         </state>
       </provider>
     </entry>
