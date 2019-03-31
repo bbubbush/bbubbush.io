@@ -4,6 +4,7 @@ title: <그림으로 공부하는 오라클구조> Chapter1. I/O와 디스크
 category: Book_Review
 author: bbubbush
 comments: true
+permalink: pretty
 ---
 
 일주일에 한번씩 작성하기로 했는데 지난주에 못써서 이번주에 첫 포스팅을 하게 되었다 : (   

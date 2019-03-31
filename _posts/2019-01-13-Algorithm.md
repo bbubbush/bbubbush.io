@@ -3,6 +3,7 @@ layout: post
 title: 평균구하기
 category: Algolism
 author: bbubbush
+permalink: pretty
 ---
 
 
