@@ -5,6 +5,7 @@ category: Book_Review
 categories: Book_Review
 author: bbubbush
 comments: true
+permalink: /:categories/:year/:month/:day/:title
 ---
 
 날씨가 많이 풀렸다. 역시 글을 시작하기 마땅한 소재가 없을 때는 날씨 이야기가 최고다. 이번 챕터는 생각보다 정리할 내용이 많았다.

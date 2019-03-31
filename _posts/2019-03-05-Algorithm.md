@@ -4,6 +4,7 @@ title: BOJ 10451번 문제 - 순열 사이클
 category: Algolism
 categories: [Algolism]
 author: bbubbush
+permalink: /:categories/:year/:month/:day/:title
 ---
 ### 문제
 [ 순열 사이클 ]  
