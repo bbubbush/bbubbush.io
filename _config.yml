@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: No pain, no gain
+title: 저 혼자 만족하는 블로그입니다.
 email: bbubbush@gmail.com
 description: 넓고 얕은 Full-Stack 개발자 입니다 :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bbubbush.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://bbubbush.github.io/
 # twitter_username: jekyllrb
 github_username: bbubbush
-
+author: bbubbush
+logo: /assets/img/favicon.ico
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-clean-blog
