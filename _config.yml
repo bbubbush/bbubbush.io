@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 넓고 얕은 Full stack 개발자
+title: 제 컴에서는 되는데요? - 모두의 컴퓨터에서 되길 바랍니다;)
 email: bbubbush@gmail.com
-description: 넓고 얕은 Full-Stack 개발자 입니다 :)
+description: 넓고 얕은 Full-Stack 개발자 입니다
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://bbubbush.github.io/
 # twitter_username: jekyllrb
