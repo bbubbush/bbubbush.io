@@ -3,7 +3,7 @@ layout: post
 title: Find_Last_Point Algorism
 category: Algolism
 author: bbubbush
-permalink: /:categories/:year/:month/:day/:title
+
 ---
 
 ### 문제

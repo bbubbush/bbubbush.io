@@ -4,7 +4,7 @@ title: <그림으로 공부하는 오라클구조> Chapter2. 오라클의 여러
 category: Book_Review
 categories: [Book_Review]
 author: bbubbush
-permalink: /:categories/:year/:month/:day/:title
+
 comments: true
 ---
 

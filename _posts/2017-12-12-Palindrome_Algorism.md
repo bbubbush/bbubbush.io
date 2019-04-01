@@ -3,7 +3,7 @@ layout: post
 title: Palindrome Algorism
 category: Algolism
 author: bbubbush
-permalink: /:categories/:year/:month/:day/:title
+
 ---
 
 

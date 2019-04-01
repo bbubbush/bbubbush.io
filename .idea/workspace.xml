@@ -2,7 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4952f736-82cf-4a64-9e04-7902066152e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-01-Tip.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-01-Tip.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-03-31-Tip.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-12-Palindrome_Algorism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-12-12-Palindrome_Algorism.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-13-Miro_Algorism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-12-13-Miro_Algorism.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-14-Find_Last_Point_Algorism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-12-14-Find_Last_Point_Algorism.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-01-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-01-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-02-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-02-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-03-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-09-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-09-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-10-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-10-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-12-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-12-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-14-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-14-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-17-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-17-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-19-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-19-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-29-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-29-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-31-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-31-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-06-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-06-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-12-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-12-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-13-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-13-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-16-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-16-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-22-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-22-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-24-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-24-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-26-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-26-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-28-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-28-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-08-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-08-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-23-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-23-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-23-Markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-23-Markdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-13-Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-13-Algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-18-Book_Review.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-18-Book_Review.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-23-Book_Review.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-23-Book_Review.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-23-WelcomeToStudy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-23-WelcomeToStudy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-27-Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-27-Algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-27-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-27-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-01-DataStructure.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-01-DataStructure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-03-Book_Review.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-03-Book_Review.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-05-Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-05-Algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-06-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-06-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-09-Study.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-09-Study.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-11-Book_Review.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-11-Book_Review.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-15-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-15-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-17-Study.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-17-Study.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-19-Tip.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-19-Tip.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-23-Study.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-23-Study.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-26-Tip.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-26-Tip.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-28-Tip.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-28-Tip.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +58,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-01-Tip.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-31-Tip.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -30,11 +75,12 @@
       <find>category</find>
       <find>permalink: pretty</find>
       <find>---</find>
+      <find>permalink: /:categories/:year/:month/:day/:title</find>
     </findStrings>
     <replaceStrings>
-      <replace />
       <replace>permalink: pretty---</replace>
       <replace>permalink: /:categories/:year/:month/:day/:title</replace>
+      <replace />
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/_posts</dir>
@@ -47,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/category/Tip.md" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/_posts/2019-03-29-Tip.md" />
@@ -98,6 +143,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-01-09-Diary.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-04-01-Tip.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-31-Tip.md" />
       </list>
     </option>
   </component>
@@ -155,7 +201,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554091318325" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554091507069" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
@@ -229,9 +275,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -354,13 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-02-Diary.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-23-Markdown.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -404,13 +440,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-23-WelcomeToStudy.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-23-Book_Review.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
@@ -573,8 +602,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-01-Tip.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="270">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-02-Diary.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-23-Book_Review.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-31-Tip.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

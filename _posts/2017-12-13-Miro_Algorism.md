@@ -3,7 +3,7 @@ layout: post
 title: Secret Miro Algorism
 category: Algolism
 author: bbubbush
-permalink: /:categories/:year/:month/:day/:title
+
 ---
 
 

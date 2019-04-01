@@ -4,7 +4,7 @@ title: 자료구조 - Depth First Search(DFS)
 category: DataStructure
 categories: [DataStructure]
 author: bbubbush
-permalink: /:categories/:year/:month/:day/:title
+
 ---
 
 알고리즘 공부를 하면서 Queue, Stack, List, Hash, DFS, BFS, DP 와 같은 용어를 참 많이 들었다.  

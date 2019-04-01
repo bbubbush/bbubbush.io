@@ -3,7 +3,7 @@ layout: post
 title: BOJ 1011번 문제 - Fly me to the Alpha Centauri
 category: Algolism
 author: bbubbush
-permalink: /:categories/:year/:month/:day/:title
+
 ---
 ### 문제
 [ Fly me to the Alpha Centauri ]  
