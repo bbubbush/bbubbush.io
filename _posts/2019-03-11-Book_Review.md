@@ -5,8 +5,6 @@ category: Book_Review
 categories: Book_Review
 author: bbubbush
 comments: true
-
-published : true
 ---
 이번 시간에는 SQL문이 오라클 내부에서 어떻게 동작하는지에 대해 설명하려합니다. 갑자기 말투가 친절해졌다고 생각된다면 그것은 기분탓일거에요 ㅎㅎ
 
