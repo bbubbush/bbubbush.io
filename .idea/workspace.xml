@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4952f736-82cf-4a64-9e04-7902066152e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-04-20-Diary.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-Diary.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            <state relative-caret-position="610">
+              <caret line="44" column="92" lean-forward="true" selection-start-line="44" selection-start-column="92" selection-end-line="44" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/_posts/2017-12-12-Palindrome_Algorism.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-13-Miro_Algorism.md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-01-Diary.md" />
@@ -101,6 +100,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-30-Study.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-08-Diary.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-09-Tip.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-20-Diary.md" />
       </list>
     </option>
   </component>
@@ -116,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -138,6 +137,11 @@
             <path>
               <item name="bbubbush.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="bbubbush.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bbubbush.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bbubbush.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -150,6 +154,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,16 +163,16 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/category" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/2019-03-10_Study1.png" />
       <recent name="$PROJECT_DIR$/assets/img/book_review/01_oracle_architecture" />
       <recent name="$PROJECT_DIR$/assets/img/book_review" />
       <recent name="$PROJECT_DIR$/assets/img/study" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/category" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -199,7 +204,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23104435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23390558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,13 +232,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-27-Algorithm.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-10-Book_Review.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -580,7 +578,14 @@
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-Diary.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="44" column="92" lean-forward="true" selection-start-line="44" selection-start-column="92" selection-end-line="44" selection-end-column="92" />
         </state>
       </provider>
     </entry>
