@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 프로그래머 - 완주하지못한 선수
+title: Programmers - 완주하지못한 선수
 category: Algolism
 categories: [Algolism]
 author: bbubbush
