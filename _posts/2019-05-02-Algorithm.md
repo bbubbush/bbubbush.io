@@ -68,7 +68,11 @@ class Solution {
                     eqStr = phone_book[i];
                 }
 
-                // 비교하는 대상에서 필요한 만큼만 잘라서 비교(substring 대신 StartsWith 메서드를 쓸 수 있습니다)
+                // if (eqStr.startsWith(target)) {
+                //     return false;
+                // }
+
+                // 비교하는 대상에서 필요한 만큼만 잘라서 비교(substring 대신 위와 같이 startsWith 메서드를 쓸 수 있습니다)
                 if (target.equals(eqStr.substring(0, target.length()))) {
                     return false;
                 }
