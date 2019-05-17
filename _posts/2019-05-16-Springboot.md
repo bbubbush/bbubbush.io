@@ -60,13 +60,13 @@ Gradle Wrapper는 운영체제에 맞게 Gradle 빌드를 수행하는 배치 �
 
 HelloController는 아래와 같이 만들어 기본적인 텍스트가 출력될 수 있게 코딩해줍니다.
 ![컨트롤러 내용](/assets/img/springboot/2019-05-17_project_14.png){: .center .img}
-```{.java}
-@RestController
-public class HelloController {
 
-    @RequestMapping("/")
-    public String hello(){
-        return "Hello, World!";
-    }
-}
-```
+마지막으로 HelloApplication파일을 선택 후 오른쪽버튼을 누르면 [Run HelloApplication main()]이 있습니다.
+![프로그램 실행](/assets/img/springboot/2019-05-17_project_15.png){: .center .img}
+
+이를 클릭한 후 웹사이트 주소창에 http://localhost:8080 이렇게 입력하면 아래처럼 Hello World를 출력해줍니다.
+![헬로 월드](/assets/img/springboot/2019-05-17_project_16.png){: .center .img}
+
+이것으로 스터디 첫 번째 과제에 대한 포스팅과 더불어 스프링 부트 프로젝트 생성하기를 마치겠습니다.
+
+#### 긴 글 읽어주셔서 감사합니다 :)
