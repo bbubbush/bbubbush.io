@@ -25,8 +25,16 @@ Spring을 공부할 겸 새롭게 시작하는 스터디에서 첫 과제로 Spr
 그 다음 plugins 메뉴에서 Spring Assistant를 검색하여 설치해줍니다. 전 이미 설치되어있기 때문에 Installed로 나오네요 : )
 ![Plugins에 인스톨하기](/assets/img/springboot/2019-05-17_project_04.png){: .center .img}
 
-이제 다시 프로젝트를 만들어보겠습니다. 새로운 프로젝트는 꼭 Gradle project로 만들어 주세요
+이제 다시 프로젝트를 만들어보겠습니다. 새로운 프로젝트는 꼭 Gradle project로 만들어 주세요.
 [참고자료: Maven vs Gradle](https://bkim.tistory.com/13)
 
 ![프로젝트 정보입력](/assets/img/springboot/2019-05-17_project_05.png){: .center .img}
 
+프로젝트를 구성할 dependency를 선택해주십니다. 저는 최소한으로 만들기 위해 아무것도 없이 next를 눌렀습니다. 그랬더니 최소 하나는 선택해달라고 하네요...ㅠ
+그래서 Web을 선택하였습니다. 이런 편리함 때문에 Spring Assistant를 사용하게 되는 것 같습니다.
+
+![dependency 선택](/assets/img/springboot/2019-05-17_project_06.png){: .center .img}
+
+마지막으로 생성할 프로젝트의 이름과 경로를 선택하시면 기나긴 프로젝트 생성이 마무리 됩니다.
+
+![프로젝트명과 경로 설정](/assets/img/springboot/2019-05-17_project_07.png){: .center .img}
