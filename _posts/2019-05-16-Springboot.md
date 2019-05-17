@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Springboot - Intelli J로 간단한 Spring boot 프로젝트 만들기
+title: Springboot - Intelli J로 간단한 스프링부트 프로젝트 만들기
 category: Springboot
 categories: [Springboot]
 author: bbubbush
