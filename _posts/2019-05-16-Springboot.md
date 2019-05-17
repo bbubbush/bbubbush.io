@@ -25,4 +25,8 @@ Spring을 공부할 겸 새롭게 시작하는 스터디에서 첫 과제로 Spr
 그 다음 plugins 메뉴에서 Spring Assistant를 검색하여 설치해줍니다. 전 이미 설치되어있기 때문에 Installed로 나오네요 : )
 ![Plugins에 인스톨하기](/assets/img/springboot/2019-05-17_project_04.png){: .center .img}
 
+이제 다시 프로젝트를 만들어보겠습니다. 새로운 프로젝트는 꼭 Gradle project로 만들어 주세요
+[참고자료: Maven vs Gradle](https://bkim.tistory.com/13)
+
+![프로젝트 정보입력](/assets/img/springboot/2019-05-17_project_05.png){: .center .img}
 
