@@ -15,3 +15,14 @@ Spring을 공부할 겸 새롭게 시작하는 스터디에서 첫 과제로 Spr
 
 먼저 프로젝트를 생성해보겠습니다.
 ![프로젝트만들기](/assets/img/springboot/2019-05-16_project_01.png){: .center .img}
+
+다음으로 Spring Assistant를 선택하여 Spring boot 프로젝트를 만들겠습니다.
+![새 프로젝트 생성](/assets/img/springboot/2019-05-17_project_02.png){: .center .img}
+
+만약 왼쪽에 Spring Assistant 메뉴가 없다면 Preferences를 열어줍니다.(맥에서는 command + , 단축키로 열 수 있습니다.)
+![Preferences 찾기](/assets/img/springboot/2019-05-17_project_03.png){: .center .img}
+
+그 다음 plugins 메뉴에서 Spring Assistant를 검색하여 설치해줍니다. 전 이미 설치되어있기 때문에 Installed로 나오네요 : )
+![Plugins에 인스톨하기](/assets/img/springboot/2019-05-17_project_04.png){: .center .img}
+
+
